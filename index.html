@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Solar System Navigator</title>
+    <link rel="stylesheet" href="https://use.typekit.net/iag7mud.css" />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Kode+Mono:wght@400;500;700&display=swap"
+    />
+    <link rel="stylesheet" href="style.css" />
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+    <script src="main.js" defer></script>
+  </head>
+  <body>
+    <div id="solar-system">
+      <h1>A SPECULATIVE MAP OF NEAR-EARTH OBJECTS</h1>
+      <h2>ROCK-ET SCIENCE</h2>
+      <h3
+        class="built-with"
+        style="position: absolute; top: 20px; right: 20px; z-index: 100"
+      >
+        BUILT WITH
+        <a
+          href="https://data.nasa.gov/Space-Science/Asteroids-NeoWs-API/73uw-d9i8/about_data"
+          style="color: white; text-decoration: underline"
+          target="_blank"
+          rel="noopener noreferrer"
+          >NASA API</a
+        >
+      </h3>
+    </div>
+    <img src="assets/info-off.svg" style="display: none" />
+    <img src="assets/info-on.svg" style="display: none" />
+  </body>
+</html>

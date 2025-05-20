@@ -1,0 +1,506 @@
+[
+  {
+    "id": "3092385",
+    "name": "(2001 TC45)",
+    "absolute_magnitude_h": 19.48,
+    "estimated_diameter_meters": {
+      "min": 337.7185971644,
+      "max": 755.1617405255
+    },
+    "is_potentially_hazardous": true,
+    "is_sentry_object": false,
+    "close_approach_data": [
+      {
+        "close_approach_date": "2025-03-24",
+        "close_approach_date_full": "2025-Mar-24 13:16",
+        "epoch_date_close_approach": 1742822160000,
+        "relative_velocity": {
+          "kilometers_per_second": 22.9949463465,
+          "kilometers_per_hour": 82781.80684754
+        },
+        "miss_distance": {
+          "astronomical": 0.3035460939,
+          "lunar": 118.0794305271,
+          "kilometers": 45409849.09425999
+        },
+        "orbiting_body": "Earth"
+      }
+    ]
+  },
+  {
+    "id": "3153530",
+    "name": "(2003 HT42)",
+    "absolute_magnitude_h": 24.8,
+    "estimated_diameter_meters": {
+      "min": 29.1443904535,
+      "max": 65.1688382168
+    },
+    "is_potentially_hazardous": false,
+    "is_sentry_object": false,
+    "close_approach_data": [
+      {
+        "close_approach_date": "2025-03-24",
+        "close_approach_date_full": "2025-Mar-24 21:28",
+        "epoch_date_close_approach": 1742851680000,
+        "relative_velocity": {
+          "kilometers_per_second": 13.4593523451,
+          "kilometers_per_hour": 48453.6684422718
+        },
+        "miss_distance": {
+          "astronomical": 0.2661082153,
+          "lunar": 103.5160957517,
+          "kilometers": 39809222.19838141
+        },
+        "orbiting_body": "Earth"
+      }
+    ]
+  },
+  {
+    "id": "3338369",
+    "name": "(2006 QS23)",
+    "absolute_magnitude_h": 20.1,
+    "estimated_diameter_meters": {
+      "min": 253.8370293645,
+      "max": 567.5968528656
+    },
+    "is_potentially_hazardous": false,
+    "is_sentry_object": false,
+    "close_approach_data": [
+      {
+        "close_approach_date": "2025-03-24",
+        "close_approach_date_full": "2025-Mar-24 01:18",
+        "epoch_date_close_approach": 1742779080000,
+        "relative_velocity": {
+          "kilometers_per_second": 18.0005428267,
+          "kilometers_per_hour": 64801.9541762269
+        },
+        "miss_distance": {
+          "astronomical": 0.2077094444,
+          "lunar": 80.7989738716,
+          "kilometers": 31072890.46112343
+        },
+        "orbiting_body": "Earth"
+      }
+    ]
+  },
+  {
+    "id": "3714121",
+    "name": "(2015 FE36)",
+    "absolute_magnitude_h": 23,
+    "estimated_diameter_meters": {
+      "min": 66.7659413495,
+      "max": 149.2931834393
+    },
+    "is_potentially_hazardous": false,
+    "is_sentry_object": false,
+    "close_approach_data": [
+      {
+        "close_approach_date": "2025-03-24",
+        "close_approach_date_full": "2025-Mar-24 08:15",
+        "epoch_date_close_approach": 1742804100000,
+        "relative_velocity": {
+          "kilometers_per_second": 11.9838843785,
+          "kilometers_per_hour": 43141.9837625474
+        },
+        "miss_distance": {
+          "astronomical": 0.3011143409,
+          "lunar": 117.1334786101,
+          "kilometers": 45046064.02509388
+        },
+        "orbiting_body": "Earth"
+      }
+    ]
+  },
+  {
+    "id": "3781913",
+    "name": "(2017 ST17)",
+    "absolute_magnitude_h": 24.82,
+    "estimated_diameter_meters": {
+      "min": 28.8771930757,
+      "max": 64.5713667167
+    },
+    "is_potentially_hazardous": false,
+    "is_sentry_object": false,
+    "close_approach_data": [
+      {
+        "close_approach_date": "2025-03-24",
+        "close_approach_date_full": "2025-Mar-24 11:11",
+        "epoch_date_close_approach": 1742814660000,
+        "relative_velocity": {
+          "kilometers_per_second": 16.9735131674,
+          "kilometers_per_hour": 61104.6474026314
+        },
+        "miss_distance": {
+          "astronomical": 0.2759884205,
+          "lunar": 107.3594955745,
+          "kilometers": 41287279.85146434
+        },
+        "orbiting_body": "Earth"
+      }
+    ]
+  },
+  {
+    "id": "54073343",
+    "name": "(2020 UC)",
+    "absolute_magnitude_h": 27.59,
+    "estimated_diameter_meters": {
+      "min": 8.0640827676,
+      "max": 18.0318372445
+    },
+    "is_potentially_hazardous": false,
+    "is_sentry_object": true,
+    "close_approach_data": [
+      {
+        "close_approach_date": "2025-03-24",
+        "close_approach_date_full": "2025-Mar-24 21:59",
+        "epoch_date_close_approach": 1742853540000,
+        "relative_velocity": {
+          "kilometers_per_second": 21.8128865534,
+          "kilometers_per_hour": 78526.3915920694
+        },
+        "miss_distance": {
+          "astronomical": 0.4804718182,
+          "lunar": 186.9035372798,
+          "kilometers": 71877560.59774724
+        },
+        "orbiting_body": "Earth"
+      }
+    ]
+  },
+  {
+    "id": "54201815",
+    "name": "(2021 TO)",
+    "absolute_magnitude_h": 24.26,
+    "estimated_diameter_meters": {
+      "min": 37.3727431914,
+      "max": 83.5679942816
+    },
+    "is_potentially_hazardous": false,
+    "is_sentry_object": false,
+    "close_approach_data": [
+      {
+        "close_approach_date": "2025-03-24",
+        "close_approach_date_full": "2025-Mar-24 06:43",
+        "epoch_date_close_approach": 1742798580000,
+        "relative_velocity": {
+          "kilometers_per_second": 9.0276080751,
+          "kilometers_per_hour": 32499.3890703251
+        },
+        "miss_distance": {
+          "astronomical": 0.4485813757,
+          "lunar": 174.4981551473,
+          "kilometers": 67106818.32638976
+        },
+        "orbiting_body": "Earth"
+      }
+    ]
+  },
+  {
+    "id": "54298776",
+    "name": "(2022 QU7)",
+    "absolute_magnitude_h": 24.88,
+    "estimated_diameter_meters": {
+      "min": 28.0902093949,
+      "max": 62.8116177092
+    },
+    "is_potentially_hazardous": false,
+    "is_sentry_object": false,
+    "close_approach_data": [
+      {
+        "close_approach_date": "2025-03-24",
+        "close_approach_date_full": "2025-Mar-24 22:13",
+        "epoch_date_close_approach": 1742854380000,
+        "relative_velocity": {
+          "kilometers_per_second": 16.8916504449,
+          "kilometers_per_hour": 60809.9416017944
+        },
+        "miss_distance": {
+          "astronomical": 0.4440547079,
+          "lunar": 172.7372813731,
+          "kilometers": 66429638.465312175
+        },
+        "orbiting_body": "Earth"
+      }
+    ]
+  },
+  {
+    "id": "2620059",
+    "name": "620059 (2006 QS23)",
+    "absolute_magnitude_h": 20.15,
+    "estimated_diameter_meters": {
+      "min": 248.0589931518,
+      "max": 554.6767711177
+    },
+    "is_potentially_hazardous": false,
+    "is_sentry_object": false,
+    "close_approach_data": [
+      {
+        "close_approach_date": "2025-03-24",
+        "close_approach_date_full": "2025-Mar-24 01:18",
+        "epoch_date_close_approach": 1742779080000,
+        "relative_velocity": {
+          "kilometers_per_second": 18.000544197,
+          "kilometers_per_hour": 64801.9591092385
+        },
+        "miss_distance": {
+          "astronomical": 0.2077094519,
+          "lunar": 80.7989767891,
+          "kilometers": 31072891.583107453
+        },
+        "orbiting_body": "Earth"
+      }
+    ]
+  },
+  {
+    "id": "54354973",
+    "name": "(2023 HW2)",
+    "absolute_magnitude_h": 25.49,
+    "estimated_diameter_meters": {
+      "min": 21.2106987876,
+      "max": 47.4285643393
+    },
+    "is_potentially_hazardous": false,
+    "is_sentry_object": false,
+    "close_approach_data": [
+      {
+        "close_approach_date": "2025-03-24",
+        "close_approach_date_full": "2025-Mar-24 21:52",
+        "epoch_date_close_approach": 1742853120000,
+        "relative_velocity": {
+          "kilometers_per_second": 24.0269791875,
+          "kilometers_per_hour": 86497.1250751253
+        },
+        "miss_distance": {
+          "astronomical": 0.4621668029,
+          "lunar": 179.7828863281,
+          "kilometers": 69139169.29854982
+        },
+        "orbiting_body": "Earth"
+      }
+    ]
+  },
+  {
+    "id": "54392052",
+    "name": "(2023 SN11)",
+    "absolute_magnitude_h": 23.78,
+    "estimated_diameter_meters": {
+      "min": 46.618143739,
+      "max": 104.2413383852
+    },
+    "is_potentially_hazardous": false,
+    "is_sentry_object": false,
+    "close_approach_data": [
+      {
+        "close_approach_date": "2025-03-24",
+        "close_approach_date_full": "2025-Mar-24 03:19",
+        "epoch_date_close_approach": 1742786340000,
+        "relative_velocity": {
+          "kilometers_per_second": 24.0732824596,
+          "kilometers_per_hour": 86663.8168545049
+        },
+        "miss_distance": {
+          "astronomical": 0.2158328146,
+          "lunar": 83.9589648794,
+          "kilometers": 32288129.3402649
+        },
+        "orbiting_body": "Earth"
+      }
+    ]
+  },
+  {
+    "id": "54423318",
+    "name": "(2024 BA5)",
+    "absolute_magnitude_h": 26.02,
+    "estimated_diameter_meters": {
+      "min": 16.617090174,
+      "max": 37.1569432173
+    },
+    "is_potentially_hazardous": false,
+    "is_sentry_object": false,
+    "close_approach_data": [
+      {
+        "close_approach_date": "2025-03-24",
+        "close_approach_date_full": "2025-Mar-24 14:39",
+        "epoch_date_close_approach": 1742827140000,
+        "relative_velocity": {
+          "kilometers_per_second": 7.6239479474,
+          "kilometers_per_hour": 27446.2126107962
+        },
+        "miss_distance": {
+          "astronomical": 0.2491642828,
+          "lunar": 96.9249060092,
+          "kilometers": 37274445.98695764
+        },
+        "orbiting_body": "Earth"
+      }
+    ]
+  },
+  {
+    "id": "54469029",
+    "name": "(2024 RD7)",
+    "absolute_magnitude_h": 22.81,
+    "estimated_diameter_meters": {
+      "min": 72.8710414898,
+      "max": 162.9446023625
+    },
+    "is_potentially_hazardous": false,
+    "is_sentry_object": false,
+    "close_approach_data": [
+      {
+        "close_approach_date": "2025-03-24",
+        "close_approach_date_full": "2025-Mar-24 02:11",
+        "epoch_date_close_approach": 1742782260000,
+        "relative_velocity": {
+          "kilometers_per_second": 27.1442652276,
+          "kilometers_per_hour": 97719.3548195224
+        },
+        "miss_distance": {
+          "astronomical": 0.3512350317,
+          "lunar": 136.6304273313,
+          "kilometers": 52544012.61170248
+        },
+        "orbiting_body": "Earth"
+      }
+    ]
+  },
+  {
+    "id": "54522697",
+    "name": "(2025 ED2)",
+    "absolute_magnitude_h": 20.927,
+    "estimated_diameter_meters": {
+      "min": 173.4422810609,
+      "max": 387.8287306248
+    },
+    "is_potentially_hazardous": false,
+    "is_sentry_object": false,
+    "close_approach_data": [
+      {
+        "close_approach_date": "2025-03-24",
+        "close_approach_date_full": "2025-Mar-24 12:41",
+        "epoch_date_close_approach": 1742820060000,
+        "relative_velocity": {
+          "kilometers_per_second": 11.522131442,
+          "kilometers_per_hour": 41479.6731911442
+        },
+        "miss_distance": {
+          "astronomical": 0.1820042167,
+          "lunar": 70.7996402963,
+          "kilometers": 27227443.149338428
+        },
+        "orbiting_body": "Earth"
+      }
+    ]
+  },
+  {
+    "id": "54523988",
+    "name": "(2025 FS)",
+    "absolute_magnitude_h": 26.021,
+    "estimated_diameter_meters": {
+      "min": 16.6094394829,
+      "max": 37.139835752
+    },
+    "is_potentially_hazardous": false,
+    "is_sentry_object": false,
+    "close_approach_data": [
+      {
+        "close_approach_date": "2025-03-24",
+        "close_approach_date_full": "2025-Mar-24 09:55",
+        "epoch_date_close_approach": 1742810100000,
+        "relative_velocity": {
+          "kilometers_per_second": 13.6517379361,
+          "kilometers_per_hour": 49146.256569924
+        },
+        "miss_distance": {
+          "astronomical": 0.0078136853,
+          "lunar": 3.0395235817,
+          "kilometers": 1168910.677730311
+        },
+        "orbiting_body": "Earth"
+      }
+    ]
+  },
+  {
+    "id": "54524311",
+    "name": "(2025 FQ2)",
+    "absolute_magnitude_h": 27.773,
+    "estimated_diameter_meters": {
+      "min": 7.4123339351,
+      "max": 16.5744825508
+    },
+    "is_potentially_hazardous": false,
+    "is_sentry_object": false,
+    "close_approach_data": [
+      {
+        "close_approach_date": "2025-03-24",
+        "close_approach_date_full": "2025-Mar-24 08:22",
+        "epoch_date_close_approach": 1742804520000,
+        "relative_velocity": {
+          "kilometers_per_second": 6.8601282879,
+          "kilometers_per_hour": 24696.4618364846
+        },
+        "miss_distance": {
+          "astronomical": 0.0181800633,
+          "lunar": 7.0720446237,
+          "kilometers": 2719698.746145171
+        },
+        "orbiting_body": "Earth"
+      }
+    ]
+  },
+  {
+    "id": "54524317",
+    "name": "(2025 FX2)",
+    "absolute_magnitude_h": 27.382,
+    "estimated_diameter_meters": {
+      "min": 8.8747264734,
+      "max": 19.8444916761
+    },
+    "is_potentially_hazardous": false,
+    "is_sentry_object": false,
+    "close_approach_data": [
+      {
+        "close_approach_date": "2025-03-24",
+        "close_approach_date_full": "2025-Mar-24 15:46",
+        "epoch_date_close_approach": 1742831160000,
+        "relative_velocity": {
+          "kilometers_per_second": 25.1198193612,
+          "kilometers_per_hour": 90431.3497001742
+        },
+        "miss_distance": {
+          "astronomical": 0.0018290218,
+          "lunar": 0.7114894802,
+          "kilometers": 273617.765463566
+        },
+        "orbiting_body": "Earth"
+      }
+    ]
+  },
+  {
+    "id": "54524319",
+    "name": "(2025 FK3)",
+    "absolute_magnitude_h": 29.008,
+    "estimated_diameter_meters": {
+      "min": 4.1971546975,
+      "max": 9.3851232157
+    },
+    "is_potentially_hazardous": false,
+    "is_sentry_object": true,
+    "close_approach_data": [
+      {
+        "close_approach_date": "2025-03-24",
+        "close_approach_date_full": "2025-Mar-24 08:03",
+        "epoch_date_close_approach": 1742803380000,
+        "relative_velocity": {
+          "kilometers_per_second": 20.5446441168,
+          "kilometers_per_hour": 73960.718820376
+        },
+        "miss_distance": {
+          "astronomical": 0.0008162685,
+          "lunar": 0.3175284465,
+          "kilometers": 122112.028948095
+        },
+        "orbiting_body": "Earth"
+      }
+    ]
+  }
+]

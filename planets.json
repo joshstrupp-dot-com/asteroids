@@ -1,0 +1,35 @@
+{
+  "celestial_bodies": [
+    {
+      "name": "Moon",
+      "distance_km": 384400,
+      "diameter_km": 3474,
+      "orbital_speed_km_s": 1.022
+    },
+    {
+      "name": "Venus",
+      "distance_km": 38000000,
+      "diameter_km": 12104,
+      "orbital_speed_km_s": 35.02
+    },
+    {
+      "name": "Mars",
+      "distance_km": 54600000,
+      "diameter_km": 6779,
+      "orbital_speed_km_s": 24.077
+    },
+    {
+      "name": "Mercury",
+      "distance_km": 77000000,
+      "diameter_km": 4879,
+      "orbital_speed_km_s": 47.87
+    },
+
+    {
+      "name": "Earth",
+      "distance_km": 0,
+      "diameter_km": 12742,
+      "orbital_speed_km_s": 29.78
+    }
+  ]
+}
