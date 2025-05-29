@@ -971,7 +971,7 @@ function addButtons() {
 
   // Create and set up the reset button but don't display it
   const resetButton = document.createElement("button");
-  resetButton.innerHTML = `<img src="/assets/reset.svg" alt="Reset" width="23" height="20">`;
+  resetButton.innerHTML = `<img src="assets/reset.svg" alt="Reset" width="23" height="20">`;
   resetButton.id = "reset-button";
   // resetButton.style.display = "none"; // Hide the button
 
@@ -989,7 +989,7 @@ function addButtons() {
 
   // Create and set up the info toggle button
   const infoButton = document.createElement("button");
-  infoButton.innerHTML = `<img src="/assets/info-off.svg" alt="Info" width="32" height="32">`;
+  infoButton.innerHTML = `<img src="assets/info-off.svg" alt="Info" width="32" height="32">`;
   infoButton.id = "info-button";
   infoButton.className = "info-toggle";
   infoButton.setAttribute("aria-label", "Toggle legend");
@@ -1002,7 +1002,7 @@ function addButtons() {
 
   // Add the legend SVG to the container
   const legendImg = document.createElement("img");
-  legendImg.src = "/assets/legend.svg";
+  legendImg.src = "assets/legend.svg";
   legendImg.alt = "Legend information";
   legendImg.style.width = "100%";
   legendImg.style.height = "100%";
@@ -1022,11 +1022,11 @@ function addButtons() {
     if (legendVisible) {
       // Show legend and change button image
       legendContainer.style.display = "block";
-      infoButton.innerHTML = `<img src="/assets/info-on.svg" alt="Info" width="32" height="32">`;
+      infoButton.innerHTML = `<img src="assets/info-on.svg" alt="Info" width="32" height="32">`;
     } else {
       // Hide legend and change button image back
       legendContainer.style.display = "none";
-      infoButton.innerHTML = `<img src="/assets/info-off.svg" alt="Info" width="32" height="32">`;
+      infoButton.innerHTML = `<img src="assets/info-off.svg" alt="Info" width="32" height="32">`;
     }
   });
 
@@ -1046,7 +1046,7 @@ function addButtons() {
     ) {
       legendVisible = false;
       legendContainer.style.display = "none";
-      infoButton.innerHTML = `<img src="/assets/info-off.svg" alt="Info" width="32" height="32">`;
+      infoButton.innerHTML = `<img src="assets/info-off.svg" alt="Info" width="32" height="32">`;
     }
   });
 
